@@ -1,7 +1,8 @@
-
 # Python Products
 
 A Python/Flask dashboard for a Products database.
+
+(Cloned from [MicrosoftDocs/mslearn-python-products](https://github.com/MicrosoftDocs/mslearn-python-products))
 
 ## Prequisites
 
