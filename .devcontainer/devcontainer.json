@@ -21,9 +21,9 @@
 		"ghcr.io/devcontainers/features/node:1": {
 			"version": "18"
 		},
-		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
-			"packages": "vim"
-		}
+		// "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+		// 	"packages": "vim"
+		// }
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
